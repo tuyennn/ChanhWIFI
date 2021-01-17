@@ -1,0 +1,11 @@
+/.buildpath
+/.cache
+/.metadata
+/.project
+/.settings
+atlassian*
+.DS_Store
+/nbproject
+.idea
+/sitemap
+/.gitattributes
